@@ -1,0 +1,98 @@
+.body {
+    font-family: 'Inter' !important;
+}
+
+.HeaderColor {
+    background-color: rgb(252, 226, 229);
+}
+
+.navButton1 {
+    background-color: white !important;
+    color: black !important;
+    border: unset !important;
+    width: 120px;
+    height: 35px;
+    border-radius: 30px !important;
+    font-size: 14px !important;
+}
+.navButton1:hover{
+    background-color:rgb(252, 185, 193) !important ;
+}
+.navButton2 {
+    background-color: rgb(123, 12, 12) !important;
+    color: white !important;
+    border: unset !important;
+    width: 150px;
+    height: 35px;
+    border-radius: 30px !important;
+    font-size: 14px !important;
+}
+.navButton2:hover{
+   background-color: rgb(211, 84, 84) !important;
+}
+.headerImage {
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.headerImageMain {
+    background-image: url(./Components/images/headimage.jpg);
+    width: 87%;
+    height: 480px;
+    margin-left: 60px;
+}
+
+.imagetop1 {
+    width: 160px;
+    height: 160px;
+    float: left;
+    margin-top: 40px;
+    background-image: url(./Components/images/headCat1.avif);
+}
+
+.imagetop2 {
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-image: url(./Components/images/headCat2.jpg);
+}
+
+.imagetop3 {
+    width: 100px;
+    height: 100px;
+    background-image: url(./Components/images/headCat3.jpg);
+    float: right;
+    margin-top: 410px;
+}
+.AboutImage{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(252, 226, 229);
+    background-image: url(./Components/images/aboutCat.png);
+    background-position:top !important;
+}
+.card{
+    width: 90%;
+    height: 300px !important;
+    background-color: rgb(237, 237, 236) !important;
+    border-radius: 10% !important;
+    border: unset !important;
+    padding: 10px;
+}
+
+.owl-carousel .owl-nav button.owl-prev,button.owl-next{
+    font-size: xxx-large !important;
+    margin-right: 20px;
+}
+.DietPlanImage{
+    background-image: url(./Components/images/doctorImage.png);
+    width: 83%;
+    height: 440px;
+    background-color: rgb(252, 226, 229);
+    margin-left: 60px;
+}
+.Link{
+    text-decoration: unset !important;
+    color: unset  !important;
+}
